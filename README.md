@@ -1,4 +1,4 @@
-# Balanço de compras e vendas
+# Relatório de Entradas e Saídas
 
 Apesar de ser um conjunto de dados pequeno, foram adquiridos diversos conceitos importantes de ETL durante o tratamento desses dados.
 
@@ -19,5 +19,20 @@ Apesar de ser um conjunto de dados pequeno, foram adquiridos diversos conceitos 
 6. Gerenciar as relações entre as tabelas e linkar corretamente os Id's das tabelas dimensão com os Id's das tabelas fato, configurando relações 1xN em todas as relações, conforme apresentado no esquema abaixo.
 
 ![image](https://user-images.githubusercontent.com/81938273/148430813-2b580ddf-b4f1-4def-97e0-bffff04f2713.png)
+
+## Relatório de BI
+
+Foi confeccionado um relatório de BI simples, uma vez que os dados do conjunto possuiam pouca variedade de informações, sendo elas:
+Setor, COD Contábil, Data, Valor Gasto e Valor Gerado.
+
+![image](https://user-images.githubusercontent.com/81938273/148463554-7b537c72-8fef-41ed-90c6-12bbb23a21d8.png)
+
+A partir dos dados é possível verificar que:
+
+* O Setor Comercial é o que mais contribui com entradas, tendo um Valor gerado de R$ 299.940,00 no periodo analisado;
+* A Diretoria da empresa, não gera gastos;
+* No geral, o balanço entre valor gasto e valor gerado é positivo.
+
+Esse relatório foi desenvolvido principalmente para apresentar o panorama geral de gastos e gerações da empresa.
 
 
