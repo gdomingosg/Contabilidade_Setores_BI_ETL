@@ -1,6 +1,6 @@
 # Relatório de Entradas e Saídas
 
-Apesar de ser um conjunto de dados pequeno, foram adquiridos diversos conceitos importantes de ETL durante o tratamento desses dados.
+Tratamento de dados para garantir a corretar apresentação nos relatórios de BI.
 
 ## Etapas do tratamento de dados
 
